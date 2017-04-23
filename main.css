@@ -1,0 +1,134 @@
+#titleBlock {
+margin-left: 25%;
+margin-right: 22%;
+text-align: center;
+width: 55%;
+height: 10%;
+display: inline-block;
+background-color: grey;
+font-size: 1.75em;
+font-family: sans-serif;
+color: orange;
+border-radius: 10px;
+}
+
+#container {
+margin-left: 25%;
+margin-right: 25%;
+width: 55%;
+height: 45%;
+position: relative;
+display: inline-block;
+background-color: white;
+border-radius: 10px;
+}
+
+#pallett {
+  height: 60%;
+  width: 55%;
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  position: relative;
+  border: white;
+}
+
+body {
+background-image: url("http://orig02.deviantart.net/859a/f/2015/258/8/4/super_mario_maker_authentic_costumes_by_dragondeplatino-d99ogvf.png");
+}
+
+#brushColor {
+height: 80%;
+width: 100%;
+display: inline-block;
+border-style: double;
+border-color: white;
+text-align: center;
+border-radius: 10px;
+background-color: white;
+text: bold;
+color: black;
+
+}
+
+#red {
+background-color: red;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#black {
+background-color: black;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+border-color: white;
+}
+
+#white {
+background-color: white;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#grey {
+background-color: grey;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#blue {
+background-color: blue;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#orange {
+background-color: orange;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#green {
+background-color: green;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#yellow {
+background-color: yellow;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
+
+#brown {
+background-color: brown;
+height: 25px;
+width: 50px;
+display: inline-block;
+border-style: double;
+border-radius: 10px;
+}
